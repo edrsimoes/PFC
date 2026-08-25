@@ -1,0 +1,91 @@
+export const PAISES = [
+  'Brasil', 'Argentina', 'Uruguai', 'Portugal', 'Espanha', 'França', 'Inglaterra', 'Alemanha'
+];
+
+export const POSICOES = [
+  'Goleiro', 'Zagueiro', 'Lateral Esquerdo', 'Lateral Direito', 
+  'Volante', 'Meio-Campo', 'Ponta Esquerda', 'Ponta Direita', 'Centroavante'
+];
+
+export const CLUBES_INICIAIS = [
+  { nome: 'Vasco', pais: 'Brasil', overallMin: 62 },
+  {nome: 'Fluminense', pais: 'Brasil', overallMin: 62 },
+  { nome: 'Mirassol', pais: 'Brasil', overallMin: 61 },
+  { nome: 'Coritiba', pais: 'Brasil', overallMin: 57 },
+  { nome: 'Vitória', pais: 'Brasil', overallMin: 57 },
+  { nome: 'Bragantino', pais: 'Brasil', overallMin: 57 },
+  { nome: 'Juventude', pais: 'Brasil', overallMin: 55 },
+  { nome: 'Remo', pais: 'Brasil', overallMin: 55 },
+  { nome: 'Chapecoense', pais: 'Brasil', overallMin: 55 },
+
+  { nome: 'Racing Club', pais: 'Argentina', overallMin: 62 },
+  { nome: 'Independiente', pais: 'Argentina', overallMin: 62 },
+  { nome: 'River Plate', pais: 'Argentina', overallMin: 65 },
+  { nome: 'Boca Juniors', pais: 'Argentina', overallMin: 65 },
+  { nome: 'Tucuman', pais: 'Argentina', overallMin: 59 },
+  { nome: 'San Lorenzo', pais: 'Argentina', overallMin: 57 },
+  { nome: 'Velez', pais: 'Argentina', overallMin: 55 },
+  { nome: 'Central Córdoba', pais: 'Argentina', overallMin: 55 },
+  { nome: 'Lanús', pais: 'Argentina', overallMin: 55 },
+  
+  { nome: 'Porto', pais: 'Portugal', overallMin: 62 },
+  { nome: 'Sporting', pais: 'Portugal', overallMin: 62 },
+  { nome: 'Benfica', pais: 'Portugal', overallMin: 62 },
+  { nome: 'Nacional', pais: 'Portugal', overallMin: 60},
+  { nome: 'Gil Vicente', pais: 'Portugal', overallMin: 60 },
+  { nome: 'Moreirense', pais: 'Portugal', overallMin: 58 },
+  { nome: 'Braga', pais: 'Portugal', overallMin: 58 },
+  { nome: 'Estoril', pais: 'Portugal', overallMin: 55 },
+  { nome: 'Alverca', pais: 'Portugal', overallMin: 55},
+
+  { nome: 'Peñarol', pais: 'Uruguai', overallMin: 62 },
+  { nome: 'Montevideo City Torque', pais: 'Uruguai', overallMin: 62 },
+  { nome: 'Liverpool', pais: 'Uruguai', overallMin: 62 },
+  { nome: 'Deportivo Maldonado', pais: 'Uruguai', overallMin: 60 },
+  { nome: 'Cerro', pais: 'Uruguai', overallMin: 60 },
+  { nome: 'Boston River', pais: 'Uruguai', overallMin: 57 },
+  { nome: 'Liverpool', pais: 'Uruguai', overallMin: 57 },
+  { nome: 'Cerro Largo', pais: 'Uruguai', overallMin: 55 },
+  { nome: 'Nacional', pais: 'Uruguai', overallMin: 55 },
+  { nome: 'Juventud', pais: 'Uruguai', overallMin: 55 },
+   
+  { nome: 'Real Madrid', pais: 'Espanha', overallMin: 62 },
+  { nome: 'Barcelona', pais: 'Espanha', overallMin: 62 },
+  { nome: 'Atlético Madrid', pais: 'Espanha', overallMin: 62 },
+  { nome: 'Espanyol', pais: 'Espanha', overallMin: 60 },
+  { nome: 'Alavés', pais: 'Espanha', overallMin: 58 },
+  { nome: 'Sevilla', pais: 'Espanha', overallMin: 58 },
+  { nome: 'Villarreal', pais: 'Espanha', overallMin: 55 },
+  { nome: 'Valencia', pais: 'Espanha', overallMin: 55 },
+  { nome: 'Real Sociedad', pais: 'Espanha', overallMin: 55 },
+
+  { nome: 'PSG', pais: 'França', overallMin: 62 },
+  { nome: 'Olympique', pais: 'França', overallMin: 62 },
+  { nome: 'Lyon', pais: 'França', overallMin: 62 },
+  { nome: 'Monaco', pais: 'França', overallMin: 60 },
+  { nome: 'LOSC ', pais: 'França', overallMin: 58 },
+  { nome: 'Lens', pais: 'França', overallMin: 58 },
+  { nome: 'Nice', pais: 'França', overallMin: 55 },
+  { nome: 'Troyes', pais: 'França', overallMin: 55 },
+  { nome: 'Paris FC', pais: 'França', overallMin: 55 },
+
+  { nome: 'Manchester City', pais: 'Inglaterra', overallMin: 62 },
+  { nome: 'Chelsea', pais: 'Inglaterra', overallMin: 62 },
+  { nome: 'Liverpool', pais: 'Inglaterra', overallMin: 62 },
+  { nome: 'Newcastle', pais: 'Inglaterra', overallMin: 60 },
+  { nome: 'Spurs', pais: 'Inglaterra', overallMin: 58},
+  { nome: 'Manchester United', pais: 'Inglaterra', overallMin: 58 },
+  { nome: 'Fulham', pais: 'Inglaterra', overallMin: 55},
+  { nome: 'Bounermouth', pais: 'Inglaterra', overallMin: 55},
+  { nome: 'Everton', pais: 'Inglaterra', overallMin: 55},
+
+  { nome: 'Bayern München', pais: 'Inglaterra', overallMin: 62},
+  { nome: 'Borussia Dortmund', pais: 'Inglaterra', overallMin: 62},
+  { nome: 'Bayern Leverkusen', pais: 'Inglaterra', overallMin: 62},
+  { nome: 'RB Leipzig', pais: 'Inglaterra', overallMin: 60},
+  { nome: 'Eintracht', pais: 'Inglaterra', overallMin: 58},
+  { nome: 'Freiburg', pais: 'Inglaterra', overallMin: 58},
+  { nome: 'Elversberg', pais: 'Inglaterra', overallMin: 55},
+  { nome: 'VfB Stuttgart', pais: 'Inglaterra', overallMin: 55},
+  { nome: 'Mainz 05', pais: 'Inglaterra', overallMin: 55},
+];

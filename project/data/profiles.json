@@ -1,0 +1,8 @@
+[
+  {"codigo": "finalizador", "nome": "Finalizador", "descricao": "Letal dentro da área, prioriza finalização e posicionamento."},
+  {"codigo": "velocista", "nome": "Velocista", "descricao": "Explosivo, ganha o espaço nas costas da defesa."},
+  {"codigo": "criador", "nome": "Criador", "descricao": "Enxerga espaços e distribui o jogo com passes precisos."},
+  {"codigo": "driblador", "nome": "Driblador", "descricao": "Desequilibra o adversário no um-contra-um."},
+  {"codigo": "defensor", "nome": "Defensor", "descricao": "Sólido na marcação e no jogo aéreo."},
+  {"codigo": "completo", "nome": "Completo", "descricao": "Sem pontos fracos evidentes, evolução equilibrada em todos os atributos."}
+]

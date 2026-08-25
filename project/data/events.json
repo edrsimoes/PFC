@@ -1,0 +1,55 @@
+[
+  {
+    "codigo": "mudanca-posicao",
+    "titulo": "Mudança de posição",
+    "descricao": "Seu treinador pediu para você jogar em uma posição diferente da que está acostumado.",
+    "contexto": "treino",
+    "opcoes": [
+      {"letra": "A", "texto": "Aceitar", "efeito_moral": -2, "efeito_reputacao": 0, "efeito_relacao_treinador": 8, "efeito_relacao_torcida": 0, "efeito_valor_mercado_percentual": 0},
+      {"letra": "B", "texto": "Recusar", "efeito_moral": 2, "efeito_reputacao": -2, "efeito_relacao_treinador": -10, "efeito_relacao_torcida": 0, "efeito_valor_mercado_percentual": 0},
+      {"letra": "C", "texto": "Conversar com o treinador", "efeito_moral": 1, "efeito_reputacao": 1, "efeito_relacao_treinador": 3, "efeito_relacao_torcida": 0, "efeito_valor_mercado_percentual": 0}
+    ]
+  },
+  {
+    "codigo": "entrevista-coletiva",
+    "titulo": "Entrevista após a derrota",
+    "descricao": "A imprensa quer sua opinião sobre a derrota do time no fim de semana.",
+    "contexto": "imprensa",
+    "opcoes": [
+      {"letra": "A", "texto": "Assumir a responsabilidade", "efeito_moral": -3, "efeito_reputacao": 5, "efeito_relacao_treinador": 4, "efeito_relacao_torcida": 6, "efeito_valor_mercado_percentual": 0},
+      {"letra": "B", "texto": "Culpar a arbitragem", "efeito_moral": 3, "efeito_reputacao": -6, "efeito_relacao_treinador": -2, "efeito_relacao_torcida": -3, "efeito_valor_mercado_percentual": 0},
+      {"letra": "C", "texto": "Ser diplomático", "efeito_moral": 0, "efeito_reputacao": 1, "efeito_relacao_treinador": 1, "efeito_relacao_torcida": 1, "efeito_valor_mercado_percentual": 0}
+    ]
+  },
+  {
+    "codigo": "proposta-patrocinio",
+    "titulo": "Proposta de patrocínio pessoal",
+    "descricao": "Uma marca esportiva ofereceu um contrato de patrocínio pessoal, mas isso pode desgastar sua imagem com a torcida.",
+    "contexto": "pessoal",
+    "opcoes": [
+      {"letra": "A", "texto": "Aceitar o patrocínio", "efeito_moral": 4, "efeito_reputacao": 3, "efeito_relacao_treinador": 0, "efeito_relacao_torcida": -2, "efeito_valor_mercado_percentual": 3},
+      {"letra": "B", "texto": "Recusar por enquanto", "efeito_moral": -1, "efeito_reputacao": 0, "efeito_relacao_treinador": 0, "efeito_relacao_torcida": 2, "efeito_valor_mercado_percentual": 0}
+    ]
+  },
+  {
+    "codigo": "conflito-companheiro",
+    "titulo": "Atrito com companheiro de equipe",
+    "descricao": "Um companheiro de time reclamou publicamente da sua postura em campo.",
+    "contexto": "clube",
+    "opcoes": [
+      {"letra": "A", "texto": "Resolver em particular", "efeito_moral": 1, "efeito_reputacao": 2, "efeito_relacao_treinador": 2, "efeito_relacao_torcida": 0, "efeito_valor_mercado_percentual": 0},
+      {"letra": "B", "texto": "Ignorar", "efeito_moral": -2, "efeito_reputacao": -1, "efeito_relacao_treinador": -1, "efeito_relacao_torcida": 0, "efeito_valor_mercado_percentual": 0},
+      {"letra": "C", "texto": "Responder publicamente", "efeito_moral": -1, "efeito_reputacao": -4, "efeito_relacao_treinador": -5, "efeito_relacao_torcida": -2, "efeito_valor_mercado_percentual": 0}
+    ]
+  },
+  {
+    "codigo": "sondagem-exterior",
+    "titulo": "Sondagem do exterior",
+    "descricao": "Um clube estrangeiro sondou seu estafe informalmente sobre uma possível transferência.",
+    "contexto": "transferencia",
+    "opcoes": [
+      {"letra": "A", "texto": "Sinalizar interesse", "efeito_moral": 3, "efeito_reputacao": 2, "efeito_relacao_treinador": -3, "efeito_relacao_torcida": -4, "efeito_valor_mercado_percentual": 2},
+      {"letra": "B", "texto": "Manter foco no clube atual", "efeito_moral": 1, "efeito_reputacao": 1, "efeito_relacao_treinador": 5, "efeito_relacao_torcida": 5, "efeito_valor_mercado_percentual": 0}
+    ]
+  }
+]

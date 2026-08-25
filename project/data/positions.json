@@ -1,0 +1,13 @@
+[
+  {"codigo": "goleiro", "nome": "Goleiro", "sigla": "GOL"},
+  {"codigo": "zagueiro", "nome": "Zagueiro", "sigla": "ZAG"},
+  {"codigo": "lateral_esquerdo", "nome": "Lateral Esquerdo", "sigla": "LE"},
+  {"codigo": "lateral_direito", "nome": "Lateral Direito", "sigla": "LD"},
+  {"codigo": "volante", "nome": "Volante", "sigla": "VOL"},
+  {"codigo": "meia", "nome": "Meia", "sigla": "MEI"},
+  {"codigo": "meia_atacante", "nome": "Meia Atacante", "sigla": "MEA"},
+  {"codigo": "ponta_esquerda", "nome": "Ponta Esquerda", "sigla": "PE"},
+  {"codigo": "ponta_direita", "nome": "Ponta Direita", "sigla": "PD"},
+  {"codigo": "segundo_atacante", "nome": "Segundo Atacante", "sigla": "SA"},
+  {"codigo": "atacante", "nome": "Atacante", "sigla": "ATA"}
+]

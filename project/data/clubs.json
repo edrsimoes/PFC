@@ -1,0 +1,57 @@
+[
+  {"nome": "Flamengo", "pais": "Brasil", "liga": "Campeonato Brasileiro", "overall_minimo": 66, "orcamento": 80000000, "prestigio": 78},
+  {"nome": "Palmeiras", "pais": "Brasil", "liga": "Campeonato Brasileiro", "overall_minimo": 65, "orcamento": 75000000, "prestigio": 77},
+  {"nome": "Vasco", "pais": "Brasil", "liga": "Campeonato Brasileiro", "overall_minimo": 60, "orcamento": 30000000, "prestigio": 62},
+  {"nome": "Fluminense", "pais": "Brasil", "liga": "Campeonato Brasileiro", "overall_minimo": 60, "orcamento": 32000000, "prestigio": 63},
+  {"nome": "Mirassol", "pais": "Brasil", "liga": "Campeonato Brasileiro", "overall_minimo": 56, "orcamento": 15000000, "prestigio": 50},
+  {"nome": "Coritiba", "pais": "Brasil", "liga": "Campeonato Brasileiro", "overall_minimo": 54, "orcamento": 12000000, "prestigio": 46},
+  {"nome": "Vitória", "pais": "Brasil", "liga": "Campeonato Brasileiro", "overall_minimo": 54, "orcamento": 12000000, "prestigio": 46},
+  {"nome": "Bragantino", "pais": "Brasil", "liga": "Campeonato Brasileiro", "overall_minimo": 57, "orcamento": 20000000, "prestigio": 55},
+  {"nome": "Juventude", "pais": "Brasil", "liga": "Campeonato Brasileiro", "overall_minimo": 52, "orcamento": 10000000, "prestigio": 42},
+
+  {"nome": "River Plate", "pais": "Argentina", "liga": "Liga Profesional Argentina", "overall_minimo": 65, "orcamento": 45000000, "prestigio": 72},
+  {"nome": "Boca Juniors", "pais": "Argentina", "liga": "Liga Profesional Argentina", "overall_minimo": 65, "orcamento": 45000000, "prestigio": 72},
+  {"nome": "Racing Club", "pais": "Argentina", "liga": "Liga Profesional Argentina", "overall_minimo": 60, "orcamento": 25000000, "prestigio": 60},
+  {"nome": "Independiente", "pais": "Argentina", "liga": "Liga Profesional Argentina", "overall_minimo": 58, "orcamento": 22000000, "prestigio": 58},
+  {"nome": "San Lorenzo", "pais": "Argentina", "liga": "Liga Profesional Argentina", "overall_minimo": 55, "orcamento": 15000000, "prestigio": 52},
+  {"nome": "Vélez Sarsfield", "pais": "Argentina", "liga": "Liga Profesional Argentina", "overall_minimo": 55, "orcamento": 14000000, "prestigio": 51},
+
+  {"nome": "Peñarol", "pais": "Uruguai", "liga": "Primera División Uruguaia", "overall_minimo": 58, "orcamento": 12000000, "prestigio": 55},
+  {"nome": "Nacional", "pais": "Uruguai", "liga": "Primera División Uruguaia", "overall_minimo": 58, "orcamento": 12000000, "prestigio": 55},
+  {"nome": "Liverpool FC (URU)", "pais": "Uruguai", "liga": "Primera División Uruguaia", "overall_minimo": 53, "orcamento": 7000000, "prestigio": 44},
+
+  {"nome": "Porto", "pais": "Portugal", "liga": "Primeira Liga", "overall_minimo": 65, "orcamento": 50000000, "prestigio": 74},
+  {"nome": "Benfica", "pais": "Portugal", "liga": "Primeira Liga", "overall_minimo": 66, "orcamento": 55000000, "prestigio": 75},
+  {"nome": "Sporting CP", "pais": "Portugal", "liga": "Primeira Liga", "overall_minimo": 64, "orcamento": 48000000, "prestigio": 73},
+  {"nome": "Braga", "pais": "Portugal", "liga": "Primeira Liga", "overall_minimo": 58, "orcamento": 18000000, "prestigio": 56},
+  {"nome": "Gil Vicente", "pais": "Portugal", "liga": "Primeira Liga", "overall_minimo": 54, "orcamento": 8000000, "prestigio": 45},
+
+  {"nome": "Real Madrid", "pais": "Espanha", "liga": "La Liga", "overall_minimo": 78, "orcamento": 200000000, "prestigio": 98},
+  {"nome": "Barcelona", "pais": "Espanha", "liga": "La Liga", "overall_minimo": 76, "orcamento": 180000000, "prestigio": 96},
+  {"nome": "Atlético Madrid", "pais": "Espanha", "liga": "La Liga", "overall_minimo": 70, "orcamento": 100000000, "prestigio": 84},
+  {"nome": "Sevilla", "pais": "Espanha", "liga": "La Liga", "overall_minimo": 60, "orcamento": 30000000, "prestigio": 62},
+  {"nome": "Villarreal", "pais": "Espanha", "liga": "La Liga", "overall_minimo": 58, "orcamento": 25000000, "prestigio": 58},
+  {"nome": "Real Sociedad", "pais": "Espanha", "liga": "La Liga", "overall_minimo": 58, "orcamento": 24000000, "prestigio": 58},
+
+  {"nome": "Paris Saint-Germain", "pais": "França", "liga": "Ligue 1", "overall_minimo": 75, "orcamento": 190000000, "prestigio": 95},
+  {"nome": "Olympique de Marseille", "pais": "França", "liga": "Ligue 1", "overall_minimo": 62, "orcamento": 35000000, "prestigio": 65},
+  {"nome": "Olympique Lyonnais", "pais": "França", "liga": "Ligue 1", "overall_minimo": 60, "orcamento": 32000000, "prestigio": 63},
+  {"nome": "Monaco", "pais": "França", "liga": "Ligue 1", "overall_minimo": 62, "orcamento": 40000000, "prestigio": 66},
+  {"nome": "Lille (LOSC)", "pais": "França", "liga": "Ligue 1", "overall_minimo": 57, "orcamento": 20000000, "prestigio": 56},
+
+  {"nome": "Manchester City", "pais": "Inglaterra", "liga": "Premier League", "overall_minimo": 78, "orcamento": 220000000, "prestigio": 98},
+  {"nome": "Liverpool", "pais": "Inglaterra", "liga": "Premier League", "overall_minimo": 76, "orcamento": 190000000, "prestigio": 96},
+  {"nome": "Chelsea", "pais": "Inglaterra", "liga": "Premier League", "overall_minimo": 70, "orcamento": 150000000, "prestigio": 88},
+  {"nome": "Manchester United", "pais": "Inglaterra", "liga": "Premier League", "overall_minimo": 66, "orcamento": 110000000, "prestigio": 82},
+  {"nome": "Newcastle United", "pais": "Inglaterra", "liga": "Premier League", "overall_minimo": 62, "orcamento": 70000000, "prestigio": 70},
+  {"nome": "Tottenham Hotspur", "pais": "Inglaterra", "liga": "Premier League", "overall_minimo": 63, "orcamento": 75000000, "prestigio": 71},
+  {"nome": "Fulham", "pais": "Inglaterra", "liga": "Premier League", "overall_minimo": 55, "orcamento": 20000000, "prestigio": 52},
+  {"nome": "Everton", "pais": "Inglaterra", "liga": "Premier League", "overall_minimo": 54, "orcamento": 18000000, "prestigio": 50},
+
+  {"nome": "Bayern München", "pais": "Alemanha", "liga": "Bundesliga", "overall_minimo": 76, "orcamento": 180000000, "prestigio": 95},
+  {"nome": "Borussia Dortmund", "pais": "Alemanha", "liga": "Bundesliga", "overall_minimo": 68, "orcamento": 90000000, "prestigio": 80},
+  {"nome": "Bayer Leverkusen", "pais": "Alemanha", "liga": "Bundesliga", "overall_minimo": 66, "orcamento": 80000000, "prestigio": 78},
+  {"nome": "RB Leipzig", "pais": "Alemanha", "liga": "Bundesliga", "overall_minimo": 63, "orcamento": 60000000, "prestigio": 70},
+  {"nome": "Eintracht Frankfurt", "pais": "Alemanha", "liga": "Bundesliga", "overall_minimo": 58, "orcamento": 25000000, "prestigio": 58},
+  {"nome": "VfB Stuttgart", "pais": "Alemanha", "liga": "Bundesliga", "overall_minimo": 56, "orcamento": 20000000, "prestigio": 54}
+]

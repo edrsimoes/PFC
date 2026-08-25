@@ -1,0 +1,10 @@
+[
+  {"codigo": "primeiro-gol", "titulo": "Primeiro Gol", "descricao": "Marque seu primeiro gol como profissional.", "icone": "⚽"},
+  {"codigo": "primeiro-titulo", "titulo": "Primeiro Título", "descricao": "Conquiste seu primeiro título profissional.", "icone": "🏆"},
+  {"codigo": "dez-gols-temporada", "titulo": "Artilheiro", "descricao": "Marque 10 gols em uma única temporada.", "icone": "🔥"},
+  {"codigo": "melhor-jogador-liga", "titulo": "Melhor da Liga", "descricao": "Seja eleito o melhor jogador do campeonato.", "icone": "👑"},
+  {"codigo": "jogador-do-ano", "titulo": "Jogador do Ano", "descricao": "Seja eleito o jogador do ano.", "icone": "🌎"},
+  {"codigo": "convocacao-selecao", "titulo": "Convocado", "descricao": "Seja convocado para a seleção nacional.", "icone": "🇧🇷"},
+  {"codigo": "transferencia-milionaria", "titulo": "Transferência Milionária", "descricao": "Seja negociado por mais de €20.000.000.", "icone": "💰"},
+  {"codigo": "campeao-continental", "titulo": "Campeão Continental", "descricao": "Conquiste uma competição continental.", "icone": "🏆"}
+]
